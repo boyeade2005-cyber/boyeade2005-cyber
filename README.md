@@ -62,12 +62,6 @@
 - ✅ **Cisco CCNA / CCNP Enterprise**
 - ✅ **ISO/IEC 27001 Lead Implementer**
 
-### 🎯 Target Certifications (In Progress)
-- 🔄 CompTIA Security+
-- 🔄 CompTIA Network+
-- 🔄 Certified Ethical Hacker (CEH)
-- 🔄 Cisco CCNA Security
-
 ---
 
 ## 🏛️ LionSec Hub - Educational Portfolio
