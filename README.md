@@ -48,10 +48,22 @@
   - Phishing email simulation design, security awareness program interpretation
 
 ### 🎯 Target Certifications (In Progress)
+
+**Offensive Security / Penetration Testing**
 - 🔄 CompTIA Security+
 - 🔄 CompTIA Network+
 - 🔄 Certified Ethical Hacker (CEH)
 - 🔄 Cisco CCNA Security
+- 🔄 OSCP (Offensive Security Certified Professional)
+- 🔄 eCPPTv2 / PNPT (Practical Network Penetration Tester)
+
+**Defensive Security / SOC & Incident Response**
+- 🔄 CompTIA CySA+
+- 🔄 Cisco CyberOps Professional
+- 🔄 BTL1 / BTL2 (Blue Team Level 1 & 2)
+
+**Infrastructure & Strategy**
+- 🔄 Cisco CCNA / CCNP Enterprise
 - 🔄 ISO/IEC 27001 Lead Implementer
 
 ---
